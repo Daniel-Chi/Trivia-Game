@@ -18,6 +18,17 @@ h1 {
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
 }
+#timealert {
+    display: none;
+}
 #quizbox {
     font-size: 24px;
+    display: none;
+}
+.choice {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+.choice:hover {
+    background-color: darkgoldenrod;
 }

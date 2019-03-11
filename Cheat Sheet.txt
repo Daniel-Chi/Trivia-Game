@@ -1,51 +1,52 @@
 
-Lowest national number: bulbasaur
+1 Lowest dex number on debut: Victini
 
-Starter that replaces second type on evo: Rowlett
+2 highest number hits: Beat Up
 
-Only dual-type move: Flying Press
+3 Starter that loses type on evo: Rowlett
 
-Highest BST without formes: Arceus
+4 Only dual-type move: Flying Press
 
-First pokemon ever designed: Rhydon
+5 First pokemon ever designed: Rhydon
 
-Pokemon gen featuring protag father: Gen 3
+6 weakest base power: constrict
 
-Oak's brother: Samson Oak (not Samuel Oak)
+7 Pokemon gen featuring protag father: Gen 3
 
-Known as the "Legendary Pokemon": Arcanine
+8 does not swap stat boosts: Speed Swap
 
-Not the name of a real Z-move: may vary
+9 Oak's brother: Samson Oak
 
-How many Unown: 28
+10 Known as the "Legendary Pokemon": Arcanine
 
-Lowest power of magnitude: 4
+11 Lowest fully evolved Def: Blissey
 
-pokemon type not used yet: may vary
+12 Not the name of a real Z-move: may vary
 
-lowest HP: Shedinja
+13 How many Unown: 28
 
-highest number hits: Beat Up
+14 Lowest power of magnitude: 4
 
-Strongest single stat boost: Belly Drum
+15 pokemon type combination: Dragon/Fairy
 
-not a counter: Revenge
+16 lowest HP: Shedinja
 
-does not swap stat boosts: Speed Swap
+17 Strongest single stat boost: Belly Drum
 
-Pure flying: Tornadus
+18 not a counter: Revenge
 
-highest priority attack: Fake out
+19 Pure flying: Tornadus
 
-weakest base power: constrict
+20 highest priority attack: Fake out
 
-Highest nonlegend Speed: Ninjask
+21 Highest nonlegend Speed: Ninjask
 
-Lowest fully evolved Def: Blissey
+22 Could learn waterfall before it was an HM: Goldeen
 
-Could learn waterfall before it was an HM: Goldeen
+23 Not a water type: Azurill
 
-Not a water type: Azurill
+24 Smeargle can't sketch: Chatter
 
-Smeargle can't sketch: Chatter
+25 Highest BST without formes: Arceus
+
 
