@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-image: url(../images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.jumbotron {
+    background-color: orange
+}
+#alert {
+    font-size: 24px;
+}
+#timer {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+#quizbox {
+    font-size: 24px;
+}
