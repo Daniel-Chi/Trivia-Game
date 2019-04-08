@@ -1,3 +1,4 @@
+//each question is an array of objects containing information that must be dynamically added to the page
 var q1 = ["What Pok\xe9mon debuted with the lowest Pok\xe9dex number?",
     { a: "Squirtle", corr: false }, { a: "Bulbasaur", corr: false }, { a: "Pikachu", corr: false }, { a: "Victini", corr: true },
     "Victini debuted with the number 000 in the Sinnoh Pok\xe9dex!"];
@@ -74,6 +75,7 @@ var q25 = ["Which Pok\xe9mon has the highest base stat total of any Pok\xe9mon e
     { a: "Slaking", corr: false }, { a: "Regigigas", corr: false }, { a: "Arceus", corr: true }, { a: "Zygarde", corr: false },
     "Arceus is still the reigning champ with a whopping 120 for every stat, making 720 total!"];
 
+//firstrun detects repeat runs if starting over without refreshing the page
 let firstrun = false;
 let right = 0;
 let wrong = 0;
@@ -121,7 +123,7 @@ function showanswer(str) {
     $("#timealert").css("display", "none");
 }
 
-//function for reading current question
+//function for reading current question's object data
 function setcurrent() {
     current = eval("q" + qnum);
 }
@@ -175,9 +177,10 @@ $("#start").on("click", function () {
     };
 });
 
-//choosing an answer
+//event listener for choosing an answer
 $(".choice").on("click", function (event) {
     let userchoice = $(this).attr("corr")
+    //right answer
     if (userchoice === "true") {
         right += 1;
         clearInterval(qtimer);
@@ -192,6 +195,7 @@ $(".choice").on("click", function (event) {
             }, 5000);
         };
     }
+    //wrong answer
     else {
         wrong += 1;
         clearInterval(qtimer);
